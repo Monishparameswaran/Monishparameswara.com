@@ -1,0 +1,358 @@
+.parameswara{
+  color:black;
+  text-align: center;
+  position: absolute;
+  top:130px;
+  left:180px;
+}
+
+.info{
+  color:black;
+  text-align: center;
+  position: absolute;
+  top:180px;
+  left:280px;
+  font-size:20px;
+}
+.he
+{
+  position:absolute;
+  top:140px;
+  left:520px;
+}
+.or
+{
+  color:orange;
+  font-size:30px;
+  position:absolute;
+  top:170px;
+  left:1140px;
+}
+.bl{
+  color:blue;
+  font-size:30px;
+  position:absolute;
+  top:170px;
+  left:1183px;
+}
+.gr
+{
+  color:green;
+  font-size:30px;
+  position:absolute;
+  top:170px;
+  left:1207px;
+}
+.color
+{
+  margin-top:82px;
+  height:30px;
+  border-radius:200px;
+  background-color:orange;
+}
+.white
+{
+  height:30px;
+}
+.chakra
+{
+
+  position:absolute;
+  top:227px;
+  left:720px;
+  height:10px;
+
+
+}
+.dashboard
+{
+  padding:30px;
+  background-color:black;
+
+  height:70px;
+}
+.embelom
+{
+  position:absolute;
+  top:15px;
+  border-radius:160px;
+  width:100px;
+}
+.border{
+  border-radius:170px;
+}
+.green
+{
+  height:30px;
+  background-color: green;
+  border-radius:200px;
+}
+.left
+{
+  background-color:orange;
+  width:380px;
+  position:absolute;
+  top:400px;
+  height:600px;
+  margin:10px;
+  border-top-left-radius:80px;
+  border-top-right-radius:50px;
+  margin-left:70px;
+}
+.text-left
+{
+  position:absolute;
+  top:180px;
+  left:40px;
+  right:10px;
+  color:white;
+}
+.embelom1
+{
+  position:absolute;
+  border-radius:150px;
+  width:130px;
+  top:70px;
+  left:32px;
+}
+.center
+{
+  width:390px;
+  height:700px;
+  margin:10px;
+  background-color:lightgrey;
+  position:absolute;
+  left:490px;
+  top:400px;
+  border-radius:100px;
+  margin-left:90px;
+
+
+}
+.tamil{
+  position: absolute;
+  top:190px;
+  left:30px;
+  padding:0px;
+}
+.tlog
+{
+  position:absolute;
+  top:80px;
+  left:115px;
+}
+.right
+{
+  background-color:green;
+  border-top-left-radius:50px;
+  width:350px;
+  height:600px;
+  margin:10px;
+  position:absolute;
+  top:400px;
+  left:1090px;
+  border-top-right-radius:80px;
+}
+.agri
+{
+  border-radius:50px;
+  position:absolute;
+  right:40px;
+  top:90px;
+}
+.viva
+{
+  position: absolute;
+  left:20px;
+  top:200px;
+  padding-left:20px;
+}
+.hr{
+  height:300px;
+  position: absolute;
+  top:1250px;
+  left:350px;
+  border-style: dotted;
+  border-radius:50px;
+  border-width:2px;
+  width:900px;
+;
+}
+.kamaraj
+{
+  height:350px;
+  width:800px;
+  border-radius:40px;
+  position:absolute;
+  top:1700px;
+  left:400px;
+  background-color:lightgrey;
+}
+.kam-content{
+  position: absolute;
+  top:50px;
+  padding:40px;
+
+}
+.kam{
+  position: absolute;
+  top:1610px;
+  left:700px;
+  border-radius:100px;
+  clip-path:circle();
+}
+.kalam
+{
+  height:300px;
+  width:900px;
+  background-color:orange;
+
+  position:absolute;
+  top:2150px;
+  left:400px;
+  border-top-right-radius:100px;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius:60px;
+  border-bottom-right-radius:220px;
+  border-top-right-radius:60px;
+  border-top-left-radius:220px;
+}
+.missile-man{
+  padding:40px;
+  margin-top: 30px;
+  margin-left:30px;
+}
+.apj{
+  position: absolute;
+  top:220px;
+  left:700px;
+  clip-path:circle();
+}
+.prabhakaran
+{
+  position:absolute;
+  top:2660px;
+  left:400px;
+  height:280px;
+  width:1100px;
+  background-color:mediumseagreen;
+  opacity:0.9;
+  border-bottom-left-radius:60px;
+  border-bottom-right-radius:320px;
+  border-top-right-radius:60px;
+  border-top-left-radius:320px;
+}
+.ltte
+{
+  position: absolute;
+  top:2795px;
+  left:318px;
+  clip-path:circle();
+
+}
+tiger
+{
+  position:absolute;
+  top:2700px;
+  right:190px;
+  clip-path:circle();
+
+}
+.thalaivan
+{
+  position: absolute;
+  top:20px;
+  padding-left:80px;
+  padding-right:30px;
+  left:40px;
+}
+.dev{
+  border-style:solid;
+  border-color:orange;
+border-width: thick;
+  width:700px;
+  height:300px;
+  position:absolute;
+  top:3300px;
+  left:500px;
+}
+.mon
+{
+  position:absolute;
+  bottom:180px;
+  clip-path:circle();
+  left:230px;
+
+}
+.circle
+{
+  height:240px;
+  width:240px;
+  background-color:black;
+  opacity:0.8;
+  position: absolute;
+  top:3180px;
+  left:710px;
+  border-radius:50%;
+}
+.end{
+  height:300px;
+  width:700px;
+  position:absolute;
+  top:3270px;
+  left:440px;
+  border-style: solid;
+  background-color:lightgrey;
+  border-color:mediumseagreen;
+}
+
+.finish
+{
+  height:300px;
+  width:100%;
+  position:absolute;
+  top:3790px;;
+   background-color:black;
+}
+.inbox
+{
+  height:2440px;
+  position:absolute;
+  top:1220px;
+  width:300px;
+  border-style:dotted;
+  border-radius:50px;
+
+}
+.content{
+  position:absolute;
+  top:1300px;
+  left:30px;
+}
+.constitution
+{
+  padding:15px;
+  position:absolute;
+  top:30px;
+
+}
+.legal
+{
+  position:absolute;
+  top:3900px;
+  left:300px;
+  color:white;
+}
+.flag
+{
+  position:absolute;
+  top:1100px;
+  left:50px;
+  clip-path:circle();
+}
+.flag-top{
+  position:absolute;
+  top:10px;
+  left:1350px;
+  clip-path:circle();
+}
